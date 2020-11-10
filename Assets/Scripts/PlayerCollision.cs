@@ -1,4 +1,10 @@
-﻿
+﻿/**
+ 
+ * PlayerCollision.cs
+
+ This file deals with detecting collision between the player and obstacles
+ --
+*/
 using UnityEngine;
 
 public class PlayerCollision : MonoBehaviour

@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/**
+
+ Score.cs
+
+ This file deals with updating the score
+ --
+*/
+
+using UnityEngine;
 using UnityEngine.UI;
 
 public class Score : MonoBehaviour

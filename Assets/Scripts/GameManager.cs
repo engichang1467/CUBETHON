@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/**
+
+ GameManager.cs
+
+ This file deals with restarting the game after player hit an obstacle or fall off from the edge
+ --
+*/
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour

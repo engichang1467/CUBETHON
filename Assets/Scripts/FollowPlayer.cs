@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/**
+
+ FollowPlayer.cs
+
+ This files deals with letting camera following the player
+ --
+*/
+
+using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {

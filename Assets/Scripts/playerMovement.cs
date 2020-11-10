@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/**
+ playerMovement.cs
+
+ This file deals with the movement of the player
+ --
+*/
+
+using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
