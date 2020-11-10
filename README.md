@@ -16,5 +16,9 @@
 ## Credit Scene
 ![](demo/Credits.png)
 
+## For Development
+- Go to ```Assets/Scripts/``` to see the source code
+- Go to ```Assets/Scenes/``` to see the level design, menu, and credits scene
+
 ## References
 - [Brackeys: How to make a Video Game in Unity](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
