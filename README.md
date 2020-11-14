@@ -3,13 +3,16 @@
 - This is my first 3D Unity game. 
 - Use C# and UnityEngine Library to write scripts for the logic behind the game.
 - Explore the usage of C# and Unity framework for game development.
-- [Check out the demo on Youtube](https://youtu.be/bXnCz2kZ8Gs)
 
 ## Starting Menu
 ![](demo/Menu.png)
 
-## Gameplay
+## Rules
+- Goal: to dodge yourself from any obstacles.
+- Once you collide with an obstacles or fall off the edge, you will have to restart from the each level.
 - use ```a``` key to go left, and ```d``` key to right
+
+- [Check out the demo on Youtube](https://youtu.be/bXnCz2kZ8Gs)
 
 ![](demo/demo1.gif)
 
