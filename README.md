@@ -10,7 +10,7 @@
 ## Rules
 - Goal: to dodge yourself from any obstacles.
 - Once you collide with any obstacles or fall off the edge, you will have to restart from the beginning of the level.
-- use ```a``` key to go left, and ```d``` key to right
+- Press ```a``` key to go left, ```d``` key to right, and space bar to jump.
 
 - [Check out the demo on Youtube](https://youtu.be/bXnCz2kZ8Gs)
 
